@@ -1,1 +1,1 @@
-Exercise coding
+coding exercise
